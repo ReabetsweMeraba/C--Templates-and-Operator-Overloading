@@ -11,5 +11,13 @@ This C++ project showcases:
 - Custom operator implementations in the `computations` class.
 - Uses friend function to cleanly print object data.
 
+## 📬 Contact Me
+
+- **Email**: [reabetswemeraba@gmail.com](mailto:reabetswemeraba@gmail.com)  
+- **LinkedIn**: [Reabetswe Meraba](https://www.linkedin.com/in/reabetswe-meraba-155958228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+Feel free to check out my repository, explore the analysis, and share your thoughts!
+
+
 
 
